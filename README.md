@@ -4,9 +4,9 @@ Play a piano using your Keyboard Numpad
 To use this program:
 
 <strong> <h1> Run the following commands in cmd </h1> </strong>
-Credit for the notes:
+Credit for the notes: </br>
 ```https://github.com/fuhton/piano-mp3```
-To download the files:
+</br>To download the files:
   ```
   git clone https://github.com/Hat1412/Keyboard_Piano.git
   cd Keyboard_Piano
