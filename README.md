@@ -18,9 +18,9 @@ https://github.com/fuhton/piano-mp3
 To run file:
   ```
   #In windows:
-  python main.py
+  python Piano.py
   #In Linux/MacOS
-  python3 main.py
+  python3 Piano.py
   ```
 How to Use:
 
