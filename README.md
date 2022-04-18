@@ -1,4 +1,4 @@
-# Keyboard_Piano
+# Keyboard Piano
 Play a piano using your Keyboard Numpad
 
 To use this program:
