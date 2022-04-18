@@ -1,4 +1,4 @@
-from secrets import choice
+from random import choice
 from tkinter import *
 from pygame import mixer
 
