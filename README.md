@@ -11,9 +11,9 @@ https://github.com/fuhton/piano-mp3
 </pre>
 </br>To download the files:
   ```
-  git clone https://github.com/Hat1412/music.git
   git clone https://github.com/Hat1412/Keyboard_Piano.git
   cd Keyboard_Piano
+  git clone https://github.com/Hat1412/music.git
   ```
   
 To run file:
